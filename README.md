@@ -8,8 +8,8 @@
 3. open localhost:4200 to see result.
 
 # Done
-1. setting up the store
-2. Created the floders file that is need for the store
+1. Setting up the store
+2. Created the floders, files that are required for the store
 3. Showing the Actions/Store Data in the Console log
 4. Display Asian Regions in a table format
 
